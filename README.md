@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p><img align="center" src="https://skillicons.dev/icons?i=cpp,js,py,go,mongodb,express,react,nodejs,selenium,docker,vscode,azure,git,github" alt="rohanawan" /></p>
+<p><img align="center" src="https://skillicons.dev/icons?i=js,next,vue,mongodb,express,react,nodejs,selenium,docker,vscode,azure,git,github" alt="rohanawan" /></p>
 
 
 <br></br>
