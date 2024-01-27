@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Ilyas</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
+<h3 align="center">A passionate full stack developer from Pakistan 🇵🇰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jals413&label=Visitors&color=2de142&style=flat-square" alt="jals413" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻   Exploring new technologies and developing software solutions and quick hacks.
 
-- 💬 Ask me about **Competitive Programming**
+- 💬 Ask me about **Competitive Programming** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
