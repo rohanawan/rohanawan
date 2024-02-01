@@ -5,7 +5,7 @@
 
 - 🔭 I’m computer science gradaute having **3+ year of experience**
 
-- 🌱 Alway on the hunt for learning
+- 🌱 Always on the hunt for learning
 
 - 👨‍💻   Exploring new technologies and developing software solutions and quick hacks.
 
