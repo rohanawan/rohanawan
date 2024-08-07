@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jals413&label=Visitors&color=2de142&style=flat-square" alt="jals413" /> </p>
 
-- 🔭 I’m computer science gradaute having **4+ year of experience**
+- 🔭 I’m computer science graduate having **4+ year of experience**
 
 - 🌱 Always on the hunt for learning
 
