@@ -7,7 +7,7 @@
 
 - 🌱 Always on the hunt for learning
 
-- 👨‍💻   Exploring new technologies and developing software solutions and quick hacks.
+- 👨‍💻 Exploring new technologies and developing software solutions and quick hacks.
 
 - 💬 Ask me about **Competitive Programming** 
 
