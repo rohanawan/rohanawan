@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rohan Ilyas</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/rohanawan/readme-typing-svg">
