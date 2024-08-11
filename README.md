@@ -24,7 +24,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p><img align="center" src="https://skillicons.dev/icons?i=js,next,vue,mongodb,express,react,nodejs,dotnet,Wordpress,selenium,docker,vscode,azure,git,github,bash,CSS,sass,tailwind,postman" alt="rohanawan" /></p>
+<p><img align="center" src="https://skillicons.dev/icons?i=js,next,vue,mongodb,express,react,nodejs,dotnet,selenium,docker,vscode,azure,git,github,bash,sass,tailwind,postman" alt="rohanawan" /></p>
 
 
 <br></br>
